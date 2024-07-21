@@ -86,6 +86,7 @@ useEffect(() => {
       )}
     </div>
       <h1>Fronea Gabriel</h1>
+      <h1>Cocor Erwin Gilbert Mario</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
